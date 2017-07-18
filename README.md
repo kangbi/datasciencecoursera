@@ -1,7 +1,4 @@
-Introduction
-
 This repository is for the Coursera course "Getting and Cleaning data"
-
 
 The run_analysis.R file does:
 -Loads data.table
